@@ -1,0 +1,30 @@
+html {
+    font-size: 22px;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+
+a {
+    color: aliceblue;
+
+}
+
+a:visited {
+    lightgray;
+}
+
+a:hover, a:active {
+    color:#00ff11;
+}
+
+table, tr, th, td, caption {
+    border:1px solid #eee;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    border: collapse;
+    padding:0.5rem;
+}
